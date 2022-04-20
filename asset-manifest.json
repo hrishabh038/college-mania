@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/college-mania/static/css/main.427eaee8.css",
-    "main.js": "/college-mania/static/js/main.327e0a4b.js",
+    "main.css": "/college-mania/static/css/main.1f5d4fc6.css",
+    "main.js": "/college-mania/static/js/main.4d029596.js",
     "index.html": "/college-mania/index.html",
-    "main.427eaee8.css.map": "/college-mania/static/css/main.427eaee8.css.map",
-    "main.327e0a4b.js.map": "/college-mania/static/js/main.327e0a4b.js.map"
+    "main.1f5d4fc6.css.map": "/college-mania/static/css/main.1f5d4fc6.css.map",
+    "main.4d029596.js.map": "/college-mania/static/js/main.4d029596.js.map"
   },
   "entrypoints": [
-    "static/css/main.427eaee8.css",
-    "static/js/main.327e0a4b.js"
+    "static/css/main.1f5d4fc6.css",
+    "static/js/main.4d029596.js"
   ]
 }
